@@ -1,2 +1,2 @@
-# demo
+# CanvasEditor
 Created with CodeSandbox
